@@ -1,0 +1,1 @@
+SELECT id,induk, nama FROM `data_cabang` ORDER BY `data_cabang`.`induk` ASC
